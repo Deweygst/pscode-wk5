@@ -1,0 +1,55 @@
+Exercise 1 : Step 1 Write "Enter two numbers to add"
+             Step 2 Read number 1
+             Step 3 Read number 2
+             Step 4 Sum = number1 + number2
+             Step 5 Write sum
+             Step 6 Write "Press Space Bar to Enter New numbers"
+             Step 7 Goto Step 1
+
+Exercise 2 : Step 1 Write "Enter any Number"
+             Step 2 Read the number to variable
+             Step 3 Divide variable by 2 and store the remainder in remain
+             Step 4 If remain = 0 then goto Step 6
+             Step 5 Display "number is odd" goto Step 7
+             Step 6 Display "number is even"
+             Step 7 Write "Press Space Bar to Enter New Number"
+             Step 8 Goto Step 1
+             
+
+Exercise 3 : Step 1 Write "Enter Five Numbers"
+             Step 2 Read in the five numbers
+             Step 3 Num1 + Num2 + Num3 + Num4 + Num5 = Sum
+             Step 4 Sum of total value of numbers divide by 5
+             Step 5 Write "This is the average of all five numbers"
+             Step 6 Compare Num1 < Num2
+             Step 7 Compare Num1 < Num3
+             Step 8 Compare Num1 < Num4
+             Step 9 Compare Num1 < Num5
+             Step 10 Write "Num1 is the smallest"
+             Step 11   Else "Num1 is the largest"
+             Step 12 Compare Num2 < Num1
+             Step 13 Compare Num2 < Num3
+             Step 14 Compare Num2 < Num4
+             Step 15 Compare Num2 < Num5
+             Step 16 Write "Num2 is the smallest"
+             Step 17   Else "Num2 is the largest"
+             Step 18 Compare Num3 < Num1
+             Step 19 Compare Num3 < Num2
+             Step 20 Compare Num3 < Num4
+             Step 21 Compare Num3 < Num5
+             Step 22 Write "Num3 is the smallest"
+             Step 23   Else "Num3 is the largest"
+             Step 24 Compare Num4 < Num1
+             Step 25 Compare Num4 < Num2
+             Step 26 Compare Num4 < Num3
+             Step 27 Compare Num4 < Num5
+             Step 28 Write "Num4 is the smallest"
+             Step 29   Else "Num4 is the largest"
+             Step 30 Compare Num5 < Num1
+             Step 31 Compare Num5 < Num2
+             Step 32 Compare Num5 < Num3
+             Step 33 Compare Num5 < Num4
+             Step 34 Write "Num5 is the smallest"
+             Step 35   Else "Num5 is the largest"
+             Step 36 Write "Press Space Bar to Enter New Numbers"
+             Step 37 Goto Step 1
